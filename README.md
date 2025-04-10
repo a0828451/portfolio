@@ -1,29 +1,24 @@
-# 👋 Hi there! I'm Yun-Shan (Shan) Chung
+# 👋 Hi, I'm Yun-Shan (Shan) Chung — but let's be honest, you're here for the data.
 
-I’m a data-driven professional with a passion for **business analytics** and **problem-solving**.  
-Currently pursuing a **Master of Science in Business Analytics** at the *University of Illinois Urbana-Champaign* (Class of 2025), I hold a Bachelor's degree in *Library and Information Science* from *National Taiwan University*.
+Once upon a dataset, Shan started building dashboards that made executives nod in approval and product managers quietly copy-paste them into slides.
 
-## 💼 My Experience:
-- **Data Analyst Intern at GoFreight Inc. (Remote)**  
-  - Created and managed marketing dashboards.  
-  - Developed automated data pipelines using Google Apps Script.  
-  - Designed data-driven business intelligence reports.
-  
-- **Business Analyst Intern at Shopee**  
-  - Conducted market and product analysis for multi-million dollar revenues.  
-  - Optimized business reports and led keyword performance analysis.
+By day, he’s a Master’s student in Business Analytics at UIUC.  
+By night (and most weekends), he wrangles pipelines, cleans up SQL chaos, and teaches Python to behave.
 
-## 🔍 Project Highlights:
-- **MLB Pitcher Salary Analysis**  
-  - Developed predictive machine learning models to forecast player salaries.  
-  - Utilized Python, Tableau, and Sklearn to generate insights.
+Shan has:
+- Built a 6-million-row data pipeline from Yelp JSONs into Azure SQL so Tableau could shine.
+- Helped optimize campaign targeting for 15,000+ organizations using Python and machine learning.
+- Automated sales dashboards for a supply chain SaaS startup and saved them hours of reporting pain.
+- Predicted housing prices and baseball salaries with surprising accuracy.
 
-- **Hypermarket Database Design**  
-  - Built a MySQL database to optimize inventory management for retail chains.
+He's currently looking for a BI or Data Analyst role in the U.S. —  
+✅ **STEM OPT eligible**  
+🛠️ Fluent in Python, SQL, Tableau, and occasional R  
+☁️ Can talk AWS (S3, Lambda, RDS) and not just buzzwords
 
-## 🛠️ Skills:
-- **Programming & Data Analysis:** Python, Tableau, SQL, Excel  
-- **Languages:** Mandarin (Native), English (Fluent)
+When he’s not wrangling data, he’s probably refining dashboards, finding new ways to reduce Excel chaos, or naming files better than “final_final_v3.”
 
-I'm always excited to collaborate on innovative projects and explore opportunities where data and business intersect!  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yunshan-chung/) or check out my repositories for more insights into my work.
+📫 **Let’s talk:**  
+[LinkedIn](https://www.linkedin.com/in/yunshan-chung/) | [GitHub Projects](https://github.com/a0828451)
+
+> Hire Shan before someone else does.
