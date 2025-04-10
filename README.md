@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yun-Shan (Shan) Chung — but let's be honest, you're here for the data.
+# 👋 Hey there, internet stranger — meet Shan!
 
 Once upon a dataset, Shan started building dashboards that made executives nod in approval and product managers quietly copy-paste them into slides.
 
